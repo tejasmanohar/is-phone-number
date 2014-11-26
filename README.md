@@ -22,19 +22,19 @@ var isPhoneNumber = require('is-phone-number');
 isPhoneNumber('123-456-7890');
 //=> true
 
-isUrl('(123) 456-7890');
+isPhoneNumber('(123) 456-7890');
 //=> true
 
-isUrl('123 456 7890');
+isPhoneNumber('123 456 7890');
 //=> true
 
-isUrl('123.456.7890');
+isPhoneNumber('123.456.7890');
 //=> true
 
-isUrl('+91 (123) 456-78900');
+isPhoneNumber('+91 (123) 456-78900');
 //=> true
 
-isUrl('5222-222-333');
+isPhoneNumber('5222-222-333');
 //=> false
 ```
 
