@@ -3,6 +3,7 @@ is-phone-number
 
 > check if string is a phone number
 
+
 Common use is server-side data validation as well. This module has no dependencies and is backed w/ [unit tests](https://github.com/tejas-manohar/is-phone-number/blob/master/test.js).
 
 
