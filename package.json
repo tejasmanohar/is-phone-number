@@ -1,0 +1,29 @@
+{
+  "name": "is-phone-number",
+  "version": "1.0.0",
+  "description": "check if string is a phone number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejas-manohar/is-phone-number.git"
+  },
+  "keywords": [
+    "phone",
+    "number",
+    "phone",
+    "regex",
+    "match"
+  ],
+  "author": "Tejas Manohar <me@tejasmanohar.com> (https://tejas.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejas-manohar/is-phone-number/issues"
+  },
+  "homepage": "https://github.com/tejas-manohar/is-phone-number",
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
