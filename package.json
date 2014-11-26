@@ -1,6 +1,6 @@
 {
   "name": "is-phone-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "check if string is a phone number",
   "main": "index.js",
   "scripts": {
